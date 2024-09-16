@@ -5,12 +5,16 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-
-
-Identify and describe at least three key milestones in the evolution of software engineering.
 - Software Engineering is a discipline that involves the systematic application of engineering principles to the design, development, testing, maintenance, and management of software systems. It integrates knowledge from computer science, engineering, project management, and quality assurance to ensure that software is reliable, efficient, and meets the specified requirements. Software engineers use structured methods and tools to build software solutions that are scalable, maintainable, and secure.
 
 - Importance in the Technology Industry: Software engineering plays a crucial role in the technology industry by enabling the creation of software applications and systems that power various aspects of modern life, including communication, commerce, entertainment, and healthcare.
+
+Identify and describe at least three key milestones in the evolution of software engineering.
+
+The key milestones in the evolution of software engineering are: 
+- The development of programming languages (e.g., Fortran, C)
+- The establishment of software engineering as a discipline in the 1960s
+- The advent of structured programming in the 1970s, and the rise of agile methodologies in the 2000s.
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
@@ -41,6 +45,7 @@ Project Manager
 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+
  - Integrated Development Environments (IDEs): Software suites that provide comprehensive tools for writing, debugging, and testing code (e.g., Visual Studio, Eclipse, IntelliJ IDEA).
   - Version Control Systems (VCS): Software tools for tracking changes to source code and coordinating work among team members (e.g., Git, Subversion).
 
@@ -74,6 +79,7 @@ Importance:
 - Boosts creativity and problem-solving: By framing prompts thoughtfully, users can get diverse and innovative solutions from AI.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
 Vague Prompt:
 "Tell me about climate change."
 
